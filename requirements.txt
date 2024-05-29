@@ -1,0 +1,11 @@
+scikit-image
+scikit-learn
+streamlit
+pandas
+plotly.express
+requests
+python-dotenv 
+streamlit==1.15.2 
+folium==0.14.0 
+streamlit-folium==0.11.0 
+openpyxl 
