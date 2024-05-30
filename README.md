@@ -27,6 +27,7 @@ The purpose of the TrallergyFree app is to provide a reliable and convenient sol
 * data.csv is the dataset we used for creating the query database.
 
 # User Analysis
-The following google colab link is an extension analysis about the user reviews' sentiment and further exploration of other future potential functions like translation, allergy chatbot. This is not covered in the group assignment but as a way of brainstorming prospecting ways to improve.
+The following google colab link is an extension analysis about the user reviews' sentiment and further exploration of other future potential functions like translation, allergy chatbot. This is not covered in the group assignment but as a way of brainstorming prospecting directions to improve.
+
 https://colab.research.google.com/drive/1nlYSAM7gMF2Rpk-G-eltGoOFNPwg6rcM?usp=sharing#scrollTo=LAVcT8D4fQA1
 
